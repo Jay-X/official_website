@@ -1,0 +1,13 @@
+.documentation > a {
+  color:var(--sg1);
+}
+.documentation > a:hover {
+  color:var(--b1);
+  
+}
+.documentation > a > h2 {
+  cursor: pointer !important;
+}
+.documentation {
+  overflow:auto !important;
+}

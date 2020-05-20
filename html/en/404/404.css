@@ -1,0 +1,145 @@
+#content-1 {
+  width:100%;text-align:center;min-height: 300px;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+#content-0 {
+  width:100%;
+  margin-left: 0;
+}
+#part-1 {
+  font-size:1.5em;
+}
+#content-2 {
+  background-color:var(--white2);min-height:700px;text-align:center;
+  padding-top: 2rem;
+  margin-left:-15px;
+  margin-right: -15px;
+  padding-bottom: 4em;
+}
+#content-1 a[l] {
+  font-weight:600;
+}
+#wifi-2 {
+  fill:rgb(240,242,244);
+  animation-name: blink;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-delay: 0.08s;
+}
+#wifi-1 {
+  fill:rgb(240,242,244);
+  animation-name: blink;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+#wifi-3 {
+  fill:var(--sg1);
+  animation-name: blink2;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+@keyframes blink {
+  0% {
+    fill:rgb(240,242,244);
+  }
+  12% {
+    fill:rgb(240,242,244);
+  }
+  14% {
+    fill:var(--sg1);
+  }
+  16% {
+    fill:var(--sg1);
+  }
+  18% {
+    fill:rgb(240,242,244);
+  }
+  20% {
+    fill:rgb(240,242,244);
+  }
+  22% {
+    fill:var(--sg1);
+  }
+  24% {
+    fill:var(--sg1);
+  }
+  26% {
+    fill:rgb(240,242,244);
+  }
+  50% {
+    fill:rgb(240,242,244);
+  }
+  76% {
+    fill:rgb(240,242,244);
+  }
+  78% {
+    fill:var(--sg1);
+  }
+  80% {
+    fill:var(--sg1);
+  }
+  82% {
+    fill:rgb(240,242,244);
+  }
+  84% {
+    fill:rgb(240,242,244);
+  }
+  86% {
+    fill:var(--sg1);
+  }
+  88% {
+    fill:var(--sg1);
+  }
+  90% {
+    fill:rgb(240,242,244);
+  }
+}
+@keyframes blink2 {
+  0% {
+    fill:var(--sg1);
+  }
+  16% {
+    fill:var(--sg1);
+  }
+  18% {
+    fill:rgb(240,242,244);
+  }
+  20% {
+    fill:var(--sg1);
+  }
+  38% {
+    fill:var(--sg1)
+  }
+  40% {
+    fill:rgb(240,242,244);
+  }
+  60% {
+    fill:rgb(240,242,244);
+  }
+  62% {
+    fill:var(--sg1);
+  }
+  70% {
+    fill:var(--sg1);
+  }
+  72% {
+    fill:rgb(240,242,244);
+  }
+  74% {
+    fill:rgb(240,242,244);
+  }
+  76% {
+    fill:var(--sg1);
+  }
+  80% {
+    fill:var(--sg1)
+  }
+  82% {
+    fill:rgb(240,242,244);
+  }
+  84% {
+    fill:var(--sg1);
+  }
+  
+}

@@ -1,0 +1,27 @@
+.social-media-link-svg path {
+  fill:var(--b2) !important;
+}
+.social-media-link::before{
+  background-color:var(--b2) !important;
+}
+h2 {
+  font-size:1.4rem;
+}
+h2::before {
+  background-color: var(--b1) !important;
+}
+.content-wrapper #email-subscribe-form {
+  max-width:600px;
+  width:100%;
+}
+.content-wrapper #email-subscribe-form input {
+  border:1px solid var(--b1);
+}
+.content-wrapper #email-subscribe-form input:hover {
+  border:1px solid var(--b1);
+  border-left:1rem solid var(--b1);
+}
+.content-wrapper #email-subscribe-form input:focus {
+  border:1px solid var(--b1);
+  border-left:1rem solid var(--b1);
+}

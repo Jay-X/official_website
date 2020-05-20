@@ -1,0 +1,1 @@
+node /var/www/nodescripts/retrieveAndUpdateDocs.js

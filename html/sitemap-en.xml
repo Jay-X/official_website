@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.taosdata.com/en/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/getting-started/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/products/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/blog/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/support/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/about/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/terms-of-service/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/privacy/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/faq/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/data-model-and-architecture/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/taos-sql/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/super-table/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/advanced-features/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/connector/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/connections-with-other-tools/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/administrator/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/documentation/more-on-system-architecture/</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/blog/?categories=3</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.taosdata.com/en/blog/?categories=4</loc>
+  <lastmod>2019-07-12T01:10:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
