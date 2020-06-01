@@ -82,13 +82,13 @@
 <td>9</td>
 <td style="text-align:center;">BINARY(<em>M</em>)</td>
 <td style="text-align:center;"><em>M</em></td>
-<td>A nullable string type whose length is <em>M</em>, any exceeded chars will be automatically truncated. This type of string only supports ASCii encoded chars.</td>
+<td>A nullable string type whose length is <em>M</em>, error should be threw with exceeded chars for now. This type of string only supports ASCii encoded chars.</td>
 </tr>
 <tr>
 <td>10</td>
 <td style="text-align:center;">NCHAR(<em>M</em>)</td>
 <td style="text-align:center;">4 * <em>M</em></td>
-<td>A nullable string type whose length is <em>M</em>, any exceeded chars will be truncated. The <strong><code>NCHAR</code></strong> type supports Unicode encoded chars.</td>
+<td>A nullable string type whose length is <em>M</em>, error should be threw with exceeded chars for now. The <strong><code>NCHAR</code></strong> type supports Unicode encoded chars.</td>
 </tr>
 </tbody>
 </table></figure>

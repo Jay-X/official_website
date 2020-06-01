@@ -89,7 +89,7 @@ latitude   |FLOAT     | 4      |tag   |</code></pre>
 <td>6</td>
 <td style="text-align:center;">BINARY</td>
 <td>自定义</td>
-<td>用于记录字符串，最长不能超过504 bytes。binary仅支持字符串输入，字符串两端使用单引号引用，否则英文全部自动转化为小写。使用时须指定大小，如binary(20)定义了最长为20个字符的字符串，每个字符占1byte的存储空间。如果用户字符串超出20字节，将被自动截断。对于字符串内的单引号，可以用转义字符反斜线加单引号来表示， 即 <strong>\’</strong>。</td>
+<td>用于记录字符串，最长不能超过504 bytes。binary仅支持字符串输入，字符串两端使用单引号引用，否则英文全部自动转化为小写。使用时须指定大小，如binary(20)定义了最长为20个字符的字符串，每个字符占1byte的存储空间。如果用户字符串超出20字节就会报错。对于字符串内的单引号，可以用转义字符反斜线加单引号来表示， 即 <strong>\’</strong>。</td>
 </tr>
 <tr>
 <td>7</td>
@@ -113,7 +113,7 @@ latitude   |FLOAT     | 4      |tag   |</code></pre>
 <td>10</td>
 <td style="text-align:center;">NCHAR</td>
 <td>自定义</td>
-<td>用于记录非ASCII字符串，如中文字符。每个nchar字符占用4bytes的存储空间。字符串两端使用单引号引用，字符串内的单引号需用转义字符 <strong>\’</strong>。nchar使用时须指定字符串大小，类型为nchar(10)的列表示此列的字符串最多存储10个nchar字符，会固定占用40bytes的空间。如用户字符串长度超出声明长度，则将被自动截断。</td>
+<td>用于记录非ASCII字符串，如中文字符。每个nchar字符占用4bytes的存储空间。字符串两端使用单引号引用，字符串内的单引号需用转义字符 <strong>\’</strong>。nchar使用时须指定字符串大小，类型为nchar(10)的列表示此列的字符串最多存储10个nchar字符，会固定占用40bytes的空间。如用户字符串长度超出声明长度，则将报错。</td>
 </tr>
 </tbody>
 </table></figure>
